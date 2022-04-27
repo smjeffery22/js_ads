@@ -45,3 +45,9 @@
 - Write a function called maxSubarraySum, which accepts an array of integers and a number called n
   - Function should calculate the maximum sum of n consecutive elements in the array
 
+## Divide and Conquer
+
+- Pattern involves dividing a data set into smaller chunks and then repeating a process with a subset of data
+  - ex. binary search
+
+- Tremendously decrease time complexity

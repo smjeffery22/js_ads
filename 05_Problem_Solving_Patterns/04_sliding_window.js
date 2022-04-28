@@ -56,4 +56,4 @@ function maxSubarraySum(arr, num) {
 }
 // O(N)
 
-console.log(maxSubarraySum([2,6,9,2,1,8,5,6,3], 3));
+console.log(maxSubarraySum([2,6,9,2,1,8,5,6,3], 3)); // 8 + 5 + 6 = 19

@@ -14,3 +14,11 @@
   - Best => O(1)
     - find right away
   - Average & Worst => O(N)
+
+## Binary Search
+
+- Much faster than linear search
+
+- *Eliminates half* of the remaining elements at a time
+
+- Only works on *sorted arrays*
